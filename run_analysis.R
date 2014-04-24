@@ -1,6 +1,6 @@
 #
-setwd("C:/Coursera/Getting and Cleaning Data/Project/UCI HAR Dataset")
-rm(list=ls())
+#setwd("C:/Coursera/Getting and Cleaning Data/Project/UCI HAR Dataset")
+#rm(list=ls())
 
 
 # reading column labels - without the subject and activity column (will be appended later)
